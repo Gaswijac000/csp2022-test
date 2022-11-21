@@ -6,3 +6,9 @@ p {
 color: blue;
   font-sise: 16;
 }
+
+ol,ul {
+  color:green;
+}
+td {
+  color:white;
